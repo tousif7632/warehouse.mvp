@@ -1,0 +1,18 @@
+# Core requirements
+fastapi==0.95.2
+uvicorn==0.22.0
+python-multipart==0.0.6
+
+# Database dependencies
+sqlalchemy==2.0.15
+pymysql==1.0.3
+databases==0.7.0
+
+# Data processing
+pandas==2.0.1
+numpy==1.24.3
+
+# Optional utilities (uncomment if needed)
+# python-jose==3.3.0  # For JWT authentication
+# passlib==1.7.4      # For password hashing
+# python-dotenv==1.0.0 # For environment variables
